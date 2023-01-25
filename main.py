@@ -17,3 +17,9 @@ Names = [
 "Theodore"
 
 ]
+
+Wiser---
+
+import random
+print(*random.sample(range(147264752,147265752), 1000), sep=",\n ")
+
