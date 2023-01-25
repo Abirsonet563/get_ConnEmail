@@ -13,3 +13,7 @@ for i in range (1000):
     print(randnames+random_2lettercomb+str(random_numbers)+random_server_sel)
 
 #don't forget to create another file (nameslist)
+Names = [
+"Theodore"
+
+]
